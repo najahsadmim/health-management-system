@@ -1,4 +1,4 @@
-## Copyright & License
+# Copyright & License
 
 Copyright © 2026 BRAC University (BRACU), Najah Sadmim, Nusaiba Nusrat Zaman, and Karnak Aritra Roy.
 All rights reserved.
